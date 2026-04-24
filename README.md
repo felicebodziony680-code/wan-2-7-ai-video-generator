@@ -1,14 +1,20 @@
 # Wan 2.7 AI Video Generator
 
+![Wan 2.7 AI Video Generator logo](./wan-logo.PNG)
+
+![Wan 2.7 AI Video Generator preview](./wan-27.jpg)
+
 ## Overview
 
-[Wan 2.7 AI Video Generator](https://www.wan2-7.org/) is designed for fast cinematic video creation from text, images, and clips. It works especially well for creators, marketers, and small teams that need multi-shot storytelling, smoother scene transitions, and audio-aware output without a heavyweight editing workflow.
+[Wan 2.7 AI Video Generator](https://www.wan2-7.org/) Wan 2.7 AI Video Generator focuses on faster cinematic video creation with a lighter workflow.
 
-## Why It Stands Out
+Wan 2.7 AI Video Generator is built for faster iteration when creators, marketers, and product teams want to turn text, images, and early concepts into more presentable video results without a heavyweight workflow.
 
-- Multi-shot video generation with more coherent visual flow
-- - Faster iteration for ads, demos, launch content, and social video
-  - - Better fit for publish-ready creative experiments than disconnected clip generation
+## Why This Format Works On GitHub
+
+- Clear public landing page with persistent history
+- - Easy to show product context, screenshots, and examples together
+  - - Better for repeatable updates than a one-off short post
    
     - ## Example Workflow
    
@@ -16,13 +22,13 @@
       idea -> storyboard -> prompt -> multi-shot render -> review -> publish
       ```
 
-      ## Simple Prompt Example
+      ## Prompt Example
 
       ```text
       Create a cinematic product teaser with two scene transitions, soft camera motion, realistic lighting, and synced ambient audio.
       ```
 
-      ## Product Page
+      ## Product Link
 
-      Visit the official [Wan 2.7 product page](https://www.wan2-7.org/) for the full workflow, current capabilities, and latest examples.
+      Explore the official [Wan 2.7 AI Video Generator product page](https://www.wan2-7.org/) for the full workflow, latest examples, and current capabilities.
       
